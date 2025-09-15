@@ -1,0 +1,5 @@
+3. Run: `streamlit run app.py`
+
+## Note
+
+You need a Google API key with access to Gemini AI models. Get one from [Google AI Studio](https://makersuite.google.com/).
